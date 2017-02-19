@@ -1,0 +1,34 @@
+.navbar .navbar-nav {
+  /*background-color: #DCDCDC;*/
+  display: inline-block;
+  vertical-align: top;
+  max-height: 1000px;
+  width: 100%;
+}
+
+.navbar-default .navbar-nav>li>a {
+   /* font-size: 2.3em;*/
+    color: #000;
+    padding-top: 15px;
+    font-family: "birch-std",Georgia,serif;
+}
+
+.navbar .navbar-collapse {
+  text-align: left;
+}
+
+.navbar-brand{
+  padding-top: 20px;
+}
+
+.intro-lead-in{
+    font-size: 3em;
+}
+
+.intro-heading{
+    font-size: 2em;
+}
+
+.navbar-custom.affix{
+  background-color: #f8f8f8;
+}
